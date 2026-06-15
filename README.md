@@ -16,7 +16,7 @@ git push -u origin main
 # Then in GitHub → Settings → Pages → deploy from main branch / (root)
 ```
 
-Waitlist emails go to `zyz9255@gmail.com` via Formsubmit.co.
+Waitlist emails forward via Formsubmit.co.
 
 ## Reddit Launch Kit
 
